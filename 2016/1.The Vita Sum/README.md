@@ -1,4 +1,4 @@
-**Problem : The Vita Sum**
+**Problem : The Vita Sum**  
 Tom the cat is brushing up his Math skills. He has a bag containing N balls of different colors. Now Tom can randomly pick
 any even number of balls from the bag. Tom wants to find out the sum of all such combinations of balls that he can pull out
 from the bag. Given he can pull out at max K balls in one pick.
